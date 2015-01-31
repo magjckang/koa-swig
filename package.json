@@ -1,0 +1,9 @@
+{
+  "name": "koa-swig-m",
+  "version": "0.1.0",
+  "description": "Another koa swig extension",
+  "dependencies": {
+    "swig": "^1.4.2"
+  },
+  "license": "MIT"
+}
