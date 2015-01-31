@@ -1,7 +1,11 @@
 {
-  "name": "koa-swig-m",
-  "version": "0.1.0",
+  "name": "m-koa-swig",
+  "version": "0.1.1",
   "description": "Another koa swig extension",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/magjckang/koa-swig.git"
+  },
   "dependencies": {
     "swig": "^1.4.2"
   },
