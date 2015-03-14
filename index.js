@@ -28,7 +28,7 @@ function extend(app, options) {
   }, options)
 
   app.context.render = function *render(view, locals) {
-    local = locals || {}
+    locals = locals || {}
 
     if (!path.extname(view)) view += '.html'
 
